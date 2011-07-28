@@ -27,6 +27,22 @@
 
     <name>m2e :: Connectors :: Eclipse Repository</name>
 
+    <developers>
+        <developer>
+            <id>p</id>
+            <name>Pino Silvaggio</name>
+            <organization>bitstrings.org</organization>
+            <timezone>-5</timezone>
+        </developer>
+    </developers>
+
+    <contributors>
+        <contributor>
+            <name>Slavomír Varchula</name>
+            <timezone>+1</timezone>
+        </contributor>
+    </contributors>
+
     <scm>
         <connection>scm:git:git@github.com:bitstrings/m2e-connectors-p2.git</connection>
         <developerConnection>scm:git:git@github.com:bitstrings/m2e-connectors-p2.git</developerConnection>
