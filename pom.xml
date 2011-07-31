@@ -21,7 +21,7 @@
     </parent>
 
     <artifactId>eclipse-repository</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <packaging>eclipse-repository</packaging>
 
