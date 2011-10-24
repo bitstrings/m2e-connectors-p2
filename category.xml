@@ -17,16 +17,16 @@
     </description>
 
     <feature
-            url="features/org.bitstrings.eclipse.m2e.connectors.jaxb2_1.0.3.qualifier.jar"
-            id="org.bitstrings.eclipse.m2e.connectors.jaxb2"
-            version="1.0.3.qualifier">
+            url="features/org.bitstrings.eclipse.m2e.connectors.jaxb2_1.0.4.qualifier.jar"
+            id="org.bitstrings.eclipse.m2e.connectors.jaxb2.features"
+            version="1.0.4.qualifier">
         <category name="org.bitstrings.eclipse.m2e.connectors"/>
     </feature>
 
     <feature
-            url="features/org.bitstrings.eclipse.m2e.connectors.xmlbeans_1.0.3.qualifier.jar"
-            id="org.bitstrings.eclipse.m2e.connectors.xmlbeans"
-            version="1.0.3.qualifier">
+            url="features/org.bitstrings.eclipse.m2e.connectors.xmlbeans_1.0.4.qualifier.jar"
+            id="org.bitstrings.eclipse.m2e.connectors.xmlbeans.features"
+            version="1.0.4.qualifier">
         <category name="org.bitstrings.eclipse.m2e.connectors"/>
     </feature>
 
